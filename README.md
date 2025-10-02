@@ -1,0 +1,3 @@
+#mypackage
+
+how to install
